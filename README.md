@@ -6,3 +6,6 @@
 **DOMAIN**:: FIGMA WEB DEVELOPMENT
 **DURATION**: 6 WEEKS
 **MENTOR**: NEELA SANTOSH
+#output
+
+[Logo Mockup-.pdf](https://github.com/user-attachments/files/20566484/Logo.Mockup-.pdf)
